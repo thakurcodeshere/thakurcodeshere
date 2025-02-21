@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am embedded software developer who is currently working on connection between Meshtastic RakWireless's  WisBlock Rak4630 and Waveshare's SX1262_LoRa-DTU-HF.<br>I'm looking to collaborate on project that is given above.<br>I'm looking for the help on my project.<br>I am currently learning more about IOT and Assembly Language.<br>Ask me about anything related to fuel sensors. <br>I am fun that's the fun fact.
+
 
 
 ## 🌐 Socials:
